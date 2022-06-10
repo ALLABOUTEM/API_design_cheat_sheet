@@ -1,10 +1,10 @@
-API Gateway /Application layer 
-What is an API gateway?
-Why use API gateway?
-Core functionalities ?
-While designing APIS
-Naming 
-URI definition 
+# API Gateway /Application layer 
+  * What is an API gateway?
+  * Why use API gateway?
+  * Core functionalities ?
+  * While designing APIS
+    * Naming 
+    * URI definition 
 Single responsibility principle
 # of params
 Type of request GET/POST/PUT/PATCH/DELETE
