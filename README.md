@@ -16,21 +16,21 @@
    * Error handling 
    * Caching 
 * Listviews (special operations)
-Pagination 
-Sorting 
-Searching 
-GET/POST
-Alias
-Documentation 
- Cheat sheet 
-Objects 
-Each object - kind of CRUDL
-URI
-Request 
-Type
-params
-Response 
-Response code 
-Happy 
-Error
+  * Pagination 
+  * Sorting 
+  * Searching 
+  * GET/POST
+* Alias
+* Documentation 
+* Cheat sheet for each API 
+  * Objects 
+  * Each object - kind of CRUDL
+  * URI
+  * Request
+    * Type
+    * params
+  * Response 
+    * Response code 
+    * Happy 
+    * Error
 
