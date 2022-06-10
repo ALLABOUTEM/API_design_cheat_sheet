@@ -5,17 +5,17 @@
   * While designing APIS
     * Naming 
     * URI definition 
-Single responsibility principle
-# of params
-Type of request GET/POST/PUT/PATCH/DELETE
-Authentication 
-Return status - 200, 201, 400,401, 403,404, 429, 500, 503
-Additional items to discuss
-Rate limiting 
-API versioning 
-Error handling 
-Caching 
-Listviews (special operations)
+    * Single responsibility principle
+    * number of params
+    * Type of request GET/POST/PUT/PATCH/DELETE
+    * Authentication 
+    * Return status - 200, 201, 400,401, 403,404, 429, 500, 503
+ * Additional items to discuss
+   * Rate limiting 
+   * API versioning 
+   * Error handling 
+   * Caching 
+* Listviews (special operations)
 Pagination 
 Sorting 
 Searching 
